@@ -1,0 +1,21 @@
+.add-button{
+    position: absolute;
+    right: 20px;
+    top: 100px;
+
+}
+.mat-mdc-row:hover {
+    cursor:pointer;
+    background-color:whitesmoke;
+}
+
+.mat-column-id {
+    max-width: 60px;
+
+}
+
+.mat-column-actions{
+    border-left: 1px solid currentColor;
+    max-width: 80px;
+    padding-left: 16px;
+}
